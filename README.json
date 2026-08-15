@@ -19,7 +19,7 @@
             "last_commit": "2026-07-29T04:13:17Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28720
+            "stars": 28737
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:08:23Z",
+            "last_commit": "2026-08-14T19:47:48Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27458
+            "stars": 27474
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-14T13:45:17Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14584
+            "stars": 14588
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-12-30T11:28:54Z",
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8982
+            "stars": 8984
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7788
+            "stars": 7789
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-05-19T22:31:37Z",
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5304
+            "stars": 5303
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2026-05-26T14:47:00Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2553
+            "stars": 2554
           }
         },
         {
@@ -226,7 +226,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:29:30Z",
+            "last_commit": "2026-08-14T19:21:53Z",
             "owner": "welldone-cloud",
             "repo": "aws-lint-iam-policies",
             "stars": 152
@@ -374,7 +374,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3693
+            "stars": 3694
           }
         },
         {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:08:41.248Z",
+    "last_updated": "2026-08-15T17:39:00.220Z",
     "original_repository": "jassics/awesome-aws-security",
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",
     "enhanced_repository": "enhansome/enhansome-aws-security",
