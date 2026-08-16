@@ -19,7 +19,7 @@
             "last_commit": "2026-07-29T04:13:17Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28737
+            "stars": 28753
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-14T19:47:48Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27474
+            "stars": 27485
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-14T13:45:17Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14588
+            "stars": 14593
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-07-07T14:45:14Z",
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9496
+            "stars": 9498
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2026-05-26T14:47:00Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2554
+            "stars": 2557
           }
         },
         {
@@ -226,7 +226,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:21:53Z",
+            "last_commit": "2026-08-16T13:34:21Z",
             "owner": "welldone-cloud",
             "repo": "aws-lint-iam-policies",
             "stars": 152
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4610
+            "stars": 4609
           }
         },
         {
@@ -464,7 +464,7 @@
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4610
+            "stars": 4609
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4610
+            "stars": 4609
           }
         }
       ],
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:39:00.220Z",
+    "last_updated": "2026-08-16T17:37:30.615Z",
     "original_repository": "jassics/awesome-aws-security",
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",
     "enhanced_repository": "enhansome/enhansome-aws-security",
