@@ -19,7 +19,7 @@
             "last_commit": "2026-07-29T04:13:17Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28779
+            "stars": 28802
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T18:09:53Z",
+            "last_commit": "2026-08-18T15:59:12Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27498
+            "stars": 27510
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T13:30:11Z",
+            "last_commit": "2026-08-18T16:02:23Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14607
+            "stars": 14612
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-12-30T11:28:54Z",
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8983
+            "stars": 8984
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7793
+            "stars": 7794
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2026-05-26T14:47:00Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2557
+            "stars": 2560
           }
         },
         {
@@ -268,7 +268,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T20:53:09Z",
+            "last_commit": "2026-08-18T16:19:37Z",
             "owner": "61418",
             "repo": "boto3-refresh-session",
             "stars": 52
@@ -388,7 +388,7 @@
             "last_commit": "2022-11-26T06:19:59Z",
             "owner": "appsecco",
             "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
-            "stars": 951
+            "stars": 952
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4609
+            "stars": 4608
           }
         },
         {
@@ -464,7 +464,7 @@
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4609
+            "stars": 4608
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4609
+            "stars": 4608
           }
         }
       ],
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:47:51.142Z",
+    "last_updated": "2026-08-18T17:47:01.420Z",
     "original_repository": "jassics/awesome-aws-security",
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",
     "enhanced_repository": "enhansome/enhansome-aws-security",
