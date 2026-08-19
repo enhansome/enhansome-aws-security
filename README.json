@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "1. AWS Whitepapers2. Books3. Videos4. Online Tutorials/Blogs/Presentations5. Online Courses (Paid/Free)6. Tools of Trade7. Security Practice and CTFs8. AWS Security Bulleting Important Issues9. AWS Security Breaches10. Contributors",
-      "items": [],
-      "title": "Table of Contents"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119190187,
             "language": "Go",
-            "last_commit": "2026-07-29T04:13:17Z",
+            "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28802
+            "stars": 28822
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-18T15:59:12Z",
+            "last_commit": "2026-08-18T21:51:06Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27510
+            "stars": 27521
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-18T16:02:23Z",
+            "last_commit": "2026-08-19T11:59:12Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14612
+            "stars": 14620
           }
         },
         {
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141482866,
             "language": "Shell",
             "last_commit": "2026-07-07T14:45:14Z",
             "owner": "toniblyx",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40539602,
             "language": "Go",
             "last_commit": "2025-12-30T11:28:54Z",
             "owner": "99designs",
@@ -85,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155376283,
             "language": "Python",
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7794
+            "stars": 7795
           }
         },
         {
@@ -99,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118159195,
             "language": "JavaScript",
             "last_commit": "2024-07-15T08:42:49Z",
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6289
+            "stars": 6288
           }
         },
         {
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137276052,
             "language": "Python",
             "last_commit": "2026-05-19T22:31:37Z",
             "owner": "RhinoSecurityLabs",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 221489076,
             "language": "Python",
             "last_commit": "2026-03-03T18:38:32Z",
             "owner": "Netflix",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 534023067,
             "language": "Go",
             "last_commit": "2026-05-26T14:47:00Z",
             "owner": "BishopFox",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71204465,
             "language": "Python",
             "last_commit": "2023-08-30T11:12:51Z",
             "owner": "dagrz",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96040095,
             "language": "Shell",
             "last_commit": "2020-02-04T11:59:51Z",
             "owner": "DenizParlak",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 53611430,
             "language": "Python",
             "last_commit": "2026-01-14T23:30:05Z",
             "owner": "awslabs",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74407623,
             "language": "Python",
             "last_commit": "2020-01-16T20:31:04Z",
             "owner": "amazon-archives",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424974259,
             "language": "TypeScript",
             "last_commit": "2025-11-17T19:53:06Z",
             "owner": "globaldatanet",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672286357,
             "language": "Python",
             "last_commit": "2026-08-16T17:49:44Z",
             "owner": "welldone-cloud",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965753161,
             "language": "Python",
             "last_commit": "2026-08-17T07:08:38Z",
             "owner": "olizimmermann",
@@ -253,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171552326,
             "language": "Python",
             "last_commit": "2026-07-21T08:53:31Z",
             "owner": "gebalamariusz",
             "repo": "cloud-audit",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -267,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 916196102,
             "language": "Python",
             "last_commit": "2026-08-18T16:19:37Z",
             "owner": "61418",
@@ -281,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1052349061,
             "language": "Python",
             "last_commit": "2026-06-29T22:34:33Z",
             "owner": "TocConsulting",
@@ -295,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1088405462,
             "language": "Python",
             "last_commit": "2026-06-17T11:39:43Z",
             "owner": "Su1ph3r",
@@ -309,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171024389,
             "language": "Python",
             "last_commit": "2026-07-10T15:03:59Z",
             "owner": "carlosinfantes",
@@ -323,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017010934,
             "language": "Python",
             "last_commit": "2026-06-29T19:54:36Z",
             "owner": "TocConsulting",
@@ -342,6 +360,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 51314087,
                 "language": "Python",
                 "last_commit": "2026-05-27T19:56:58Z",
                 "owner": "awslabs",
@@ -350,18 +369,12 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "S3 Inspector",
-          "description": "Tool to check AWS S3 bucket permissions",
-          "children": []
         }
       ],
       "title": "Tools of Trade"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -370,11 +383,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141209050,
             "language": "Python",
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3698
+            "stars": 3701
           }
         },
         {
@@ -384,6 +398,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254317084,
             "language": "CSS",
             "last_commit": "2022-11-26T06:19:59Z",
             "owner": "appsecco",
@@ -398,6 +413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162155667,
             "language": "Python",
             "last_commit": "2024-07-30T20:30:42Z",
             "owner": "OWASP",
@@ -412,6 +428,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 397028827,
             "language": "Open Policy Agent",
             "last_commit": "2026-08-03T22:33:16Z",
             "owner": "trustoncloud",
@@ -426,6 +443,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214062756,
             "language": null,
             "last_commit": "2026-04-18T04:13:48Z",
             "owner": "commjoen",
@@ -437,7 +455,7 @@
       "title": "Security Practices and CTFs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -446,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272394704,
             "language": "C",
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
@@ -460,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272394704,
             "language": "C",
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
@@ -474,6 +494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272394704,
             "language": "C",
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
@@ -483,16 +504,12 @@
         }
       ],
       "title": "AWS Security Bulletin Important Issues"
-    },
-    {
-      "description": "Please refer the guidelines at contribute.md for details.\nThanks to the following folks who made contributions to this project.\nGet your name listed here\nList of Contributors",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:47:01.420Z",
+    "last_updated": "2026-08-19T12:15:58.400Z",
     "original_repository": "jassics/awesome-aws-security",
+    "original_repository_id": 186966440,
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",
     "enhanced_repository": "enhansome/enhansome-aws-security",
     "enhanced_repository_description": null,
