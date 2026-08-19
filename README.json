@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28822
+            "stars": 28836
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-18T21:51:06Z",
+            "last_commit": "2026-08-19T16:53:36Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27521
+            "stars": 27526
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-19T11:59:12Z",
+            "last_commit": "2026-08-19T16:03:26Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14620
+            "stars": 14621
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-07T14:45:14Z",
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9499
+            "stars": 9500
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2023-08-30T11:12:51Z",
             "owner": "dagrz",
             "repo": "aws_pwn",
-            "stars": 1221
+            "stars": 1223
           }
         },
         {
@@ -507,7 +507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:58.400Z",
+    "last_updated": "2026-08-19T17:43:56.663Z",
     "original_repository": "jassics/awesome-aws-security",
     "original_repository_id": 186966440,
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",
