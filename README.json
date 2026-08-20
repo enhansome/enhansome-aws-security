@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28836
+            "stars": 28860
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-19T16:53:36Z",
+            "last_commit": "2026-08-20T09:34:58Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27526
+            "stars": 27530
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-19T16:03:26Z",
+            "last_commit": "2026-08-20T15:59:55Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14621
+            "stars": 14630
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7795
+            "stars": 7793
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-05-26T14:47:00Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2560
+            "stars": 2559
           }
         },
         {
@@ -365,7 +365,7 @@
                 "last_commit": "2026-05-27T19:56:58Z",
                 "owner": "awslabs",
                 "repo": "aws-config-rules",
-                "stars": 1734
+                "stars": 1735
               }
             }
           ]
@@ -388,7 +388,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3701
+            "stars": 3702
           }
         },
         {
@@ -469,7 +469,7 @@
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4608
+            "stars": 4609
           }
         },
         {
@@ -484,7 +484,7 @@
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4608
+            "stars": 4609
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2026-08-12T12:06:05Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4608
+            "stars": 4609
           }
         }
       ],
@@ -507,7 +507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:43:56.663Z",
+    "last_updated": "2026-08-20T17:48:46.036Z",
     "original_repository": "jassics/awesome-aws-security",
     "original_repository_id": 186966440,
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",
