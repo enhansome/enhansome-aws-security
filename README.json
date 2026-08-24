@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "*A very good repo for learning IAM based vulnerabilities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344529392,
+            "language": "HCL",
+            "last_commit": "2026-03-12T15:38:01Z",
+            "owner": "BishopFox",
+            "repo": "iam-vulnerable",
+            "stars": 588
+          }
+        }
+      ],
+      "title": "Online Tutorials/Blogs/Presentations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Breaking and Pwning Apps and Servers in AWS and Azure",
+          "description": "Previously an instructor led training now released as free and open source courseware for Cloud Pentesters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254317084,
+            "language": "CSS",
+            "last_commit": "2022-11-26T06:19:59Z",
+            "owner": "appsecco",
+            "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
+            "stars": 952
+          }
+        }
+      ],
+      "title": "Online Courses (Paid/Free)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "gitleaks",
           "description": "Audit git repos for secrets",
           "children": [],
@@ -15,7 +57,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28922
+            "stars": 28934
           }
         },
         {
@@ -27,10 +69,10 @@
             "archived": false,
             "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-23T05:33:25Z",
+            "last_commit": "2026-08-24T13:40:24Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27557
+            "stars": 27569
           }
         },
         {
@@ -42,10 +84,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-22T20:33:52Z",
+            "last_commit": "2026-08-24T13:16:24Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14657
+            "stars": 14666
           }
         },
         {
@@ -75,7 +117,7 @@
             "last_commit": "2025-12-30T11:28:54Z",
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8985
+            "stars": 8984
           }
         },
         {
@@ -90,7 +132,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7796
+            "stars": 7798
           }
         },
         {
@@ -120,7 +162,7 @@
             "last_commit": "2026-05-19T22:31:37Z",
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5306
+            "stars": 5308
           }
         },
         {
@@ -150,7 +192,7 @@
             "last_commit": "2026-08-20T18:39:52Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2560
+            "stars": 2561
           }
         },
         {
@@ -180,7 +222,7 @@
             "last_commit": "2020-02-04T11:59:51Z",
             "owner": "DenizParlak",
             "repo": "Zeus",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -240,7 +282,7 @@
             "last_commit": "2026-08-22T07:42:30Z",
             "owner": "welldone-cloud",
             "repo": "aws-lint-iam-policies",
-            "stars": 157
+            "stars": 161
           }
         },
         {
@@ -252,7 +294,7 @@
             "archived": false,
             "id": 965753161,
             "language": "Python",
-            "last_commit": "2026-08-17T07:08:38Z",
+            "last_commit": "2026-08-24T07:12:05Z",
             "owner": "olizimmermann",
             "repo": "s3dns",
             "stars": 128
@@ -388,7 +430,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3703
+            "stars": 3704
           }
         },
         {
@@ -469,7 +511,7 @@
             "last_commit": "2026-08-22T07:58:35Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4613
+            "stars": 4614
           }
         },
         {
@@ -484,7 +526,7 @@
             "last_commit": "2026-08-22T07:58:35Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4613
+            "stars": 4614
           }
         },
         {
@@ -499,7 +541,7 @@
             "last_commit": "2026-08-22T07:58:35Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4613
+            "stars": 4614
           }
         }
       ],
@@ -507,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:39:06.968Z",
+    "last_updated": "2026-08-24T14:10:16.240Z",
     "original_repository": "jassics/awesome-aws-security",
     "original_repository_id": 186966440,
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",
