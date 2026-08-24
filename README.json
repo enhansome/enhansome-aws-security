@@ -57,7 +57,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28934
+            "stars": 28936
           }
         },
         {
@@ -69,10 +69,10 @@
             "archived": false,
             "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-24T13:40:24Z",
+            "last_commit": "2026-08-24T16:53:19Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27569
+            "stars": 27573
           }
         },
         {
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-24T13:16:24Z",
+            "last_commit": "2026-08-24T17:39:34Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
             "stars": 14666
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:16.240Z",
+    "last_updated": "2026-08-24T17:50:07.116Z",
     "original_repository": "jassics/awesome-aws-security",
     "original_repository_id": 186966440,
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",

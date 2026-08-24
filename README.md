@@ -2,7 +2,7 @@
 
 A standard curated list of links, references, books, videos, and tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,512 | 🐛 106 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,563 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 ![Awesome AWS Security](awesome-aws-security.png)
 
@@ -150,9 +150,9 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Tools of Trade
 
-1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 28,934 | 🐛 460 | 🌐 Go | 📅 2026-08-19 - Audit git repos for secrets
-2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 27,569 | 🐛 520 | 🌐 Go | 📅 2026-08-24 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,666 | 🐛 285 | 🌐 Python | 📅 2026-08-24 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 28,936 | 🐛 460 | 🌐 Go | 📅 2026-08-19 - Audit git repos for secrets
+2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 27,573 | 🐛 519 | 🌐 Go | 📅 2026-08-24 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,666 | 🐛 281 | 🌐 Python | 📅 2026-08-24 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 4. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,501 | 🐛 10 | 🌐 Shell | 📅 2026-07-07 - Collection of all security category tools and products
 5. [AWS Vault](https://github.com/99designs/aws-vault) ⭐ 8,984 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
 6. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,798 | 🐛 295 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security Auditing Tool
@@ -264,7 +264,7 @@ Thanks to the following folks who made contributions to this project.
 
 **Get your name listed here**
 
-[List of Contributors](https://github.com/jassics/awesome-aws-security/graphs/contributors) ⭐ 1,583 | 🐛 4 | 📅 2026-04-03
+[List of Contributors](https://github.com/jassics/awesome-aws-security/graphs/contributors) ⭐ 1,584 | 🐛 4 | 📅 2026-04-03
 
 ***
 
