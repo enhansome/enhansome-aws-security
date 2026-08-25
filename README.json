@@ -57,7 +57,7 @@
             "last_commit": "2026-08-19T04:15:06Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28943
+            "stars": 28952
           }
         },
         {
@@ -69,10 +69,10 @@
             "archived": false,
             "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-24T21:39:30Z",
+            "last_commit": "2026-08-25T17:46:08Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27576
+            "stars": 27581
           }
         },
         {
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-24T19:26:07Z",
+            "last_commit": "2026-08-25T16:14:47Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14671
+            "stars": 14675
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2025-12-30T11:28:54Z",
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8984
+            "stars": 8985
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7799
+            "stars": 7800
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-20T18:39:52Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2561
+            "stars": 2562
           }
         },
         {
@@ -324,7 +324,7 @@
             "archived": false,
             "id": 916196102,
             "language": "Python",
-            "last_commit": "2026-08-18T16:19:37Z",
+            "last_commit": "2026-08-25T14:47:41Z",
             "owner": "61418",
             "repo": "boto3-refresh-session",
             "stars": 52
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:48.843Z",
+    "last_updated": "2026-08-25T17:48:07.413Z",
     "original_repository": "jassics/awesome-aws-security",
     "original_repository_id": 186966440,
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",

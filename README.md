@@ -2,7 +2,7 @@
 
 A standard curated list of links, references, books, videos, and tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,698 | 🐛 106 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,861 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 ![Awesome AWS Security](awesome-aws-security.png)
 
@@ -22,9 +22,9 @@ Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
 > \[!NOTE]
 > You can follow the below github repo as well to excel in Cloud Security
 >
-> 1. [Awesome Cloud Security Learning Resources](https://github.com/jassics/awesome-cybersecurity-learning-resources/blob/main/awesome-cloud-security-learning-resources.md) ⭐ 123 | 🐛 8 | 📅 2026-06-27
-> 2. [AWS Security Study Plan](https://github.com/jassics/security-study-plan/blob/main/aws-security-study-plan.md) ⭐ 5,049 | 🐛 0 | 📅 2026-08-12
-> 3. [AWS Security Interview Quesitons](https://github.com/jassics/security-interview-questions/blob/main/aws-security-interview-questions.md) ⭐ 483 | 🐛 0 | 📅 2026-07-04
+> 1. [Awesome Cloud Security Learning Resources](https://github.com/jassics/awesome-cybersecurity-learning-resources/blob/main/awesome-cloud-security-learning-resources.md) ⭐ 123 | 🐛 7 | 📅 2026-06-27
+> 2. [AWS Security Study Plan](https://github.com/jassics/security-study-plan/blob/main/aws-security-study-plan.md) ⭐ 5,048 | 🐛 0 | 📅 2026-08-12
+> 3. [AWS Security Interview Quesitons](https://github.com/jassics/security-interview-questions/blob/main/aws-security-interview-questions.md) ⭐ 484 | 🐛 0 | 📅 2026-07-04
 > 4. [Cloud Security Roadmap](https://github.com/jassics/cybersecurity-roadmap/blob/master/cloud-security.md) ⭐ 460 | 🐛 0 | 📅 2026-05-10
 > 5. [Cloud Security Slides Primer](https://github.com/jassics/cybersecurity-slides/tree/main/cloud-security) ⭐ 45 | 🐛 0 | 📅 2025-03-24
 
@@ -150,16 +150,16 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Tools of Trade
 
-1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 28,943 | 🐛 460 | 🌐 Go | 📅 2026-08-19 - Audit git repos for secrets
-2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 27,576 | 🐛 520 | 🌐 Go | 📅 2026-08-24 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,671 | 🐛 283 | 🌐 Python | 📅 2026-08-24 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 28,952 | 🐛 461 | 🌐 Go | 📅 2026-08-19 - Audit git repos for secrets
+2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 27,581 | 🐛 517 | 🌐 Go | 📅 2026-08-25 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,675 | 🐛 281 | 🌐 Python | 📅 2026-08-25 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 4. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,501 | 🐛 10 | 🌐 Shell | 📅 2026-07-07 - Collection of all security category tools and products
-5. [AWS Vault](https://github.com/99designs/aws-vault) ⭐ 8,984 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
-6. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,799 | 🐛 295 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security Auditing Tool
+5. [AWS Vault](https://github.com/99designs/aws-vault) ⭐ 8,985 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
+6. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,800 | 🐛 295 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security Auditing Tool
 7. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,288 | 🐛 210 | 🌐 JavaScript | 📅 2024-07-15 - Analyze your AWS environments (Python)
 8. [Pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,308 | 🐛 37 | 🌐 Python | 📅 2026-05-19 - AWS Penetration Testing Toolkits
 9. [ConsoleMe](https://github.com/Netflix/consoleme) ⚠️ Archived - A Central Control Plane for AWS Permissions and Access
-10. [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,561 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration tests
+10. [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,562 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration tests
 11. [AWS PWN](https://github.com/dagrz/aws_pwn) ⭐ 1,223 | 🐛 3 | 🌐 Python | 📅 2023-08-30 - A collection of AWS penetration testing junk
 12. [Zeus](https://github.com/DenizParlak/Zeus) ⭐ 719 | 🐛 4 | 🌐 Shell | 📅 2020-02-04 - AWS Auditing and Hardening tool
 13. [AWS Security Automation](https://github.com/awslabs/aws-security-automation) ⚠️ Archived - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
@@ -168,7 +168,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 16. [aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) ⭐ 161 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Tool to find problems in identity-based and resource-based IAM policies
 17. [s3dns](https://github.com/olizimmermann/s3dns) ⭐ 128 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures
 18. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 69 | 🐛 10 | 🌐 Python | 📅 2026-07-21 - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
-19. [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-08-18 - A simple Python package for refreshing AWS temporary credentials in boto3 automatically. Supports MFA, IoT, and custom auth flows.
+19. [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2026-08-25 - A simple Python package for refreshing AWS temporary credentials in boto3 automatically. Supports MFA, IoT, and custom auth flows.
 20. [IAM Activity Tracker](https://github.com/TocConsulting/iam-activity-tracker) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-06-29 - Serverless AWS solution for tracking IAM, STS, and Console sign-in activities across all regions using EventBridge and CloudTrail
 21. [Nubicustos](https://github.com/Su1ph3r/Nubicustos) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-06-17 - Orchestrates 20+ security tools (Prowler, ScoutSuite, Checkov, CloudFox, Pacu, etc.) with unified findings, attack paths, and compliance
 22. [CloudSecure](https://github.com/carlosinfantes/cloudsecure) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions
