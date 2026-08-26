@@ -54,10 +54,10 @@
             "archived": false,
             "id": 119190187,
             "language": "Go",
-            "last_commit": "2026-08-19T04:15:06Z",
+            "last_commit": "2026-08-26T04:17:05Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28952
+            "stars": 28963
           }
         },
         {
@@ -69,10 +69,10 @@
             "archived": false,
             "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-25T17:46:08Z",
+            "last_commit": "2026-08-26T19:07:41Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27581
+            "stars": 27597
           }
         },
         {
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-25T16:14:47Z",
+            "last_commit": "2026-08-26T17:49:07Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14675
+            "stars": 14685
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7800
+            "stars": 7801
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-19T22:31:37Z",
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5308
+            "stars": 5311
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-03-03T18:38:32Z",
             "owner": "Netflix",
             "repo": "consoleme",
-            "stars": 3197
+            "stars": 3196
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-20T18:39:52Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2562
+            "stars": 2563
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-24T21:03:21Z",
             "owner": "welldone-cloud",
             "repo": "aws-lint-iam-policies",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3705
+            "stars": 3708
           }
         },
         {
@@ -508,10 +508,10 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-25T00:38:38Z",
+            "last_commit": "2026-08-26T19:13:00Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4614
+            "stars": 4615
           }
         },
         {
@@ -523,10 +523,10 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-25T00:38:38Z",
+            "last_commit": "2026-08-26T19:13:00Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4614
+            "stars": 4615
           }
         },
         {
@@ -538,10 +538,10 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-25T00:38:38Z",
+            "last_commit": "2026-08-26T19:13:00Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4614
+            "stars": 4615
           }
         }
       ],
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:48:07.413Z",
+    "last_updated": "2026-08-26T19:22:29.753Z",
     "original_repository": "jassics/awesome-aws-security",
     "original_repository_id": 186966440,
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",
