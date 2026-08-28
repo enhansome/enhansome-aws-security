@@ -57,7 +57,7 @@
             "last_commit": "2026-08-26T04:17:05Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28971
+            "stars": 28983
           }
         },
         {
@@ -69,10 +69,10 @@
             "archived": false,
             "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-26T19:59:14Z",
+            "last_commit": "2026-08-27T19:30:21Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27602
+            "stars": 27611
           }
         },
         {
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-27T11:17:04Z",
+            "last_commit": "2026-08-27T19:18:06Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14692
+            "stars": 14697
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2025-12-30T11:28:54Z",
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8985
+            "stars": 8986
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2024-07-15T08:42:49Z",
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6288
+            "stars": 6289
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-19T22:31:37Z",
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5312
+            "stars": 5313
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-20T18:39:52Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2563
+            "stars": 2564
           }
         },
         {
@@ -324,7 +324,7 @@
             "archived": false,
             "id": 916196102,
             "language": "Python",
-            "last_commit": "2026-08-25T14:47:41Z",
+            "last_commit": "2026-08-27T17:50:24Z",
             "owner": "61418",
             "repo": "boto3-refresh-session",
             "stars": 52
@@ -430,7 +430,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3709
+            "stars": 3710
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-08-27T10:01:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4616
+            "stars": 4617
           }
         },
         {
@@ -526,7 +526,7 @@
             "last_commit": "2026-08-27T10:01:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4616
+            "stars": 4617
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2026-08-27T10:01:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4616
+            "stars": 4617
           }
         }
       ],
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:34.557Z",
+    "last_updated": "2026-08-28T01:31:04.178Z",
     "original_repository_info": {
       "archived": false,
       "id": 186966440,
