@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.",
+            "homepage": "https://labs.bishopfox.com/tech-blog/iam-vulnerable-an-aws-iam-privilege-escalation-playground",
             "id": 344529392,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-03-12T15:38:01Z",
+            "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 589
+            "stars": 589,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         }
@@ -32,12 +37,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!",
+            "homepage": null,
             "id": 254317084,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-11-26T06:19:59Z",
+            "open_issues": 1,
             "owner": "appsecco",
             "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
-            "stars": 952
+            "stars": 952,
+            "topics": [
+              "application-security",
+              "aws-security",
+              "azure-security",
+              "free",
+              "opensource",
+              "penetration-testing",
+              "pentesting"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         }
@@ -54,12 +72,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find secrets with Gitleaks 🔑",
+            "homepage": "https://gitleaks.io",
             "id": 119190187,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T04:17:05Z",
+            "open_issues": 467,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28997
+            "stars": 29001,
+            "topics": [
+              "ai-powered",
+              "ci-cd",
+              "cicd",
+              "cli",
+              "data-loss-prevention",
+              "devsecops",
+              "dlp",
+              "git",
+              "gitleaks",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "llm",
+              "llm-inference",
+              "llm-training",
+              "nhi",
+              "open-source",
+              "secret",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -70,12 +114,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find, verify, and analyze leaked credentials",
+            "homepage": "https://trufflesecurity.com",
             "id": 77726177,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T09:56:00Z",
+            "open_issues": 525,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27621
+            "stars": 27622,
+            "topics": [
+              "credentials",
+              "devsecops",
+              "dynamic-analysis",
+              "precommit",
+              "scanning",
+              "secret",
+              "secret-management",
+              "secrets",
+              "security",
+              "security-tools",
+              "trufflehog",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -86,12 +148,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.",
+            "homepage": "https://prowler.com",
             "id": 66474729,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:17:40Z",
+            "open_issues": 337,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14712
+            "stars": 14713,
+            "topics": [
+              "aws",
+              "azure",
+              "cis-benchmark",
+              "cloud",
+              "cloudsecurity",
+              "compliance",
+              "cspm",
+              "devsecops",
+              "forensics",
+              "gcp",
+              "gdpr",
+              "hacktoberfest",
+              "hardening",
+              "iam",
+              "multi-cloud",
+              "python",
+              "security",
+              "security-audit",
+              "security-hardening",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -102,12 +190,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+            "homepage": null,
             "id": 141482866,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T14:45:14Z",
+            "open_issues": 10,
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9502
+            "stars": 9502,
+            "topics": [
+              "auditing",
+              "aws-infrastructure",
+              "aws-inventory",
+              "aws-lambda",
+              "cloud",
+              "cloudtrail",
+              "dfir",
+              "iam",
+              "incident-response",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -118,12 +223,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A vault for securely storing and accessing AWS credentials in development environments",
+            "homepage": null,
             "id": 40539602,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-30T11:28:54Z",
+            "open_issues": 2,
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8986
+            "stars": 8986,
+            "topics": [
+              "aws",
+              "aws-vault",
+              "cli",
+              "credentials",
+              "iam",
+              "keychain",
+              "mfa",
+              "temporary-credentials"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -134,12 +253,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-Cloud Security Auditing Tool",
+            "homepage": null,
             "id": 155376283,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-09-23T18:33:52Z",
+            "open_issues": 296,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7803
+            "stars": 7803,
+            "topics": [
+              "auditing",
+              "aws",
+              "azure",
+              "cloud",
+              "gcp",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -150,12 +281,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " CloudMapper helps you analyze your Amazon Web Services (AWS) environments.",
+            "homepage": null,
             "id": 118159195,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-15T08:42:49Z",
+            "open_issues": 210,
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6290
+            "stars": 6290,
+            "topics": [
+              "aws",
+              "cytoscape",
+              "diagram",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -166,12 +307,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+            "homepage": "https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/",
             "id": 137276052,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-19T22:31:37Z",
+            "open_issues": 37,
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5313
+            "stars": 5313,
+            "topics": [
+              "aws",
+              "aws-security",
+              "penetration-testing",
+              "python",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -182,12 +334,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Central Control Plane for AWS Permissions and Access",
+            "homepage": null,
             "id": 221489076,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-03T18:38:32Z",
+            "open_issues": 0,
             "owner": "Netflix",
             "repo": "consoleme",
-            "stars": 3196
+            "stars": 3196,
+            "topics": [
+              "aws",
+              "aws-iam",
+              "cloud-security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -198,12 +360,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automating situational awareness for cloud penetration tests.",
+            "homepage": "https://bishopfox.com/blog/introducing-cloudfox",
             "id": 534023067,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-20T18:39:52Z",
+            "open_issues": 10,
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2565
+            "stars": 2565,
+            "topics": [
+              "aws",
+              "cloud",
+              "cloud-security",
+              "golang",
+              "penetration-testing-tools",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -214,12 +388,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of AWS penetration testing junk",
+            "homepage": null,
             "id": 71204465,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-30T11:12:51Z",
+            "open_issues": 3,
             "owner": "dagrz",
             "repo": "aws_pwn",
-            "stars": 1223
+            "stars": 1223,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -230,12 +409,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS Auditing & Hardening Tool",
+            "homepage": "http://www.denizparlak.com/?p=386",
             "id": 96040095,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-02-04T11:59:51Z",
+            "open_issues": 4,
             "owner": "DenizParlak",
             "repo": "Zeus",
-            "stars": 719
+            "stars": 719,
+            "topics": [
+              "aws",
+              "aws-auditing",
+              "aws-hardening",
+              "cloudtrail",
+              "hardening"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -246,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of scripts and resources for DevSecOps and Automated Incident Response Security",
+            "homepage": null,
             "id": 53611430,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-14T23:30:05Z",
+            "open_issues": 5,
             "owner": "awslabs",
             "repo": "aws-security-automation",
-            "stars": 633
+            "stars": 633,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -262,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open source demos, concept and guidance related to the AWS CIS Foundation framework.",
+            "homepage": null,
             "id": 74407623,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-01-16T20:31:04Z",
+            "open_issues": 48,
             "owner": "amazon-archives",
             "repo": "aws-security-benchmark",
-            "stars": 618
+            "stars": 618,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -278,12 +478,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhance the security of your web applications effortlessly with AWS Firewall Factory. Safeguard your valuable assets through seamless WAF deployment, updates, and staging, all centrally managed with AWS Firewall Manager.",
+            "homepage": "https://docs.aws-firewall-factory.com/",
             "id": 424974259,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-17T19:53:06Z",
+            "open_issues": 16,
             "owner": "globaldatanet",
             "repo": "aws-firewall-factory",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "amazon-web-services",
+              "aws",
+              "cdk",
+              "devsecops",
+              "firewall",
+              "governance",
+              "hacktoberfest",
+              "owasp",
+              "owasp-top-10",
+              "security",
+              "typescript",
+              "waf",
+              "wafv2"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -294,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Runs IAM policy linting and security checks against either a single AWS account or multiple member accounts of an AWS Organization.",
+            "homepage": null,
             "id": 672286357,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T21:03:21Z",
+            "open_issues": 0,
             "owner": "welldone-cloud",
             "repo": "aws-lint-iam-policies",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -310,12 +534,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find S3 AWS/GCP/Azure buckets while surfing. S3DNS acts as DNS server, follows CNAMEs and matches any bucket pattern",
+            "homepage": "https://olizimmermann.medium.com/uncovering-hidden-cloud-buckets-with-dns-the-s3dns-approach-caf5bdf37324",
             "id": 965753161,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T07:12:05Z",
+            "open_issues": 0,
             "owner": "olizimmermann",
             "repo": "s3dns",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "bucket",
+              "buckets",
+              "enumeration",
+              "pentester",
+              "pentesting",
+              "recon",
+              "reconnaissance",
+              "webpentest"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -326,12 +564,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.",
+            "homepage": null,
             "id": 1171552326,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T08:53:31Z",
+            "open_issues": 10,
             "owner": "gebalamariusz",
             "repo": "cloud-audit",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "audit",
+              "aws",
+              "aws-audit",
+              "aws-security",
+              "cis-benchmarks",
+              "cli",
+              "cloud-security",
+              "compliance",
+              "devops",
+              "devsecops",
+              "iam",
+              "infrastructure-as-code",
+              "infrastructure-security",
+              "open-source-security",
+              "python",
+              "python-cli",
+              "security",
+              "security-scanner",
+              "terraform",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -342,12 +606,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A drop-in replacement for boto3.Session named RefreshableSession. It automatically refreshes temporary AWS credentials, caches clients, and natively supports MFA providers. It also supports automatic temporary AWS security credential refresh for STS, IOT Core, and custom credential callables.",
+            "homepage": "https://61418.io/boto3-refresh-session/",
             "id": 916196102,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-27T17:50:24Z",
+            "open_issues": 1,
             "owner": "61418",
             "repo": "boto3-refresh-session",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "amazon",
+              "authentication",
+              "aws",
+              "aws-sts",
+              "boto3",
+              "botocore",
+              "cloud",
+              "credentials",
+              "iam",
+              "iot",
+              "iot-device",
+              "mfa",
+              "refresh",
+              "session",
+              "sts"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -358,12 +643,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive serverless AWS solution for tracking and auditing IAM, STS, and AWS Console signin activities across all regions",
+            "homepage": null,
             "id": 1052349061,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-29T22:34:33Z",
+            "open_issues": 0,
             "owner": "TocConsulting",
             "repo": "iam-activity-tracker",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "audit",
+              "aws",
+              "aws-security",
+              "cloud-security",
+              "cloudtrail",
+              "compliance",
+              "dynamodb",
+              "iam",
+              "lambda",
+              "monitoring",
+              "security",
+              "serverless",
+              "sts",
+              "threat-detection"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -374,12 +679,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud security intelligence platform with cross-tool integration — transform raw security scans into actionable intelligence across AWS, Azure, GCP, and Kubernetes",
+            "homepage": "https://cairnsecurity.com",
             "id": 1088405462,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-17T11:39:43Z",
+            "open_issues": 0,
             "owner": "Su1ph3r",
             "repo": "Nubicustos",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "aws-security",
+              "azure-security",
+              "checkov",
+              "cloud-security",
+              "compliance",
+              "cspm",
+              "devsecops",
+              "gcp-security",
+              "kubernetes-security",
+              "multi-cloud",
+              "open-source-security",
+              "prowler",
+              "scoutsuite",
+              "security-audit",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -390,12 +716,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS security assessment platform with AI-powered analysis",
+            "homepage": null,
             "id": 1171024389,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-10T15:03:59Z",
+            "open_issues": 0,
             "owner": "carlosinfantes",
             "repo": "cloudsecure",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ai",
+              "aws",
+              "aws-security",
+              "bedrock",
+              "cdk",
+              "cis-benchmarks",
+              "cloud-security",
+              "compliance",
+              "devsecops",
+              "python",
+              "security",
+              "security-assessment",
+              "soc2"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -406,12 +751,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS S3 security scanner: detect public access, weak bucket policies, missing encryption and compliance gaps across your buckets. Python CLI with multi-format reports.",
+            "homepage": "https://pypi.org/project/s3-security-scanner/",
             "id": 1017010934,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-29T19:54:36Z",
+            "open_issues": 0,
             "owner": "TocConsulting",
             "repo": "s3-security-scanner",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "aws",
+              "aws-security",
+              "bucket-security",
+              "cloud-security",
+              "compliance",
+              "cspm",
+              "devsecops",
+              "python",
+              "s3",
+              "scanner",
+              "security",
+              "security-scanner"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -427,12 +790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Node, Python, Java] Repository of sample Custom Rules for AWS Config. ",
+                "homepage": "http://aws.amazon.com/config/",
                 "id": 51314087,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-05-27T19:56:58Z",
+                "open_issues": 115,
                 "owner": "awslabs",
                 "repo": "aws-config-rules",
-                "stars": 1735
+                "stars": 1735,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:59:25.502Z"
             }
@@ -451,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudGoat is Rhino Security Labs' \"Vulnerable by Design\" AWS deployment tool",
+            "homepage": null,
             "id": 141209050,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-28T13:43:43Z",
+            "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3712
+            "stars": 3712,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -467,12 +840,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!",
+            "homepage": null,
             "id": 254317084,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-11-26T06:19:59Z",
+            "open_issues": 1,
             "owner": "appsecco",
             "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
-            "stars": 952
+            "stars": 952,
+            "topics": [
+              "application-security",
+              "aws-security",
+              "azure-security",
+              "free",
+              "opensource",
+              "penetration-testing",
+              "pentesting"
+            ]
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -483,12 +869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWASP ServerlessGoat: a serverless application demonstrating common serverless security flaws",
+            "homepage": null,
             "id": 162155667,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-30T20:30:42Z",
+            "open_issues": 11,
             "owner": "OWASP",
             "repo": "Serverless-Goat",
-            "stars": 330
+            "stars": 330,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -499,12 +890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Threat model for Amazon S3 - Library of all the attack scenarios on Amazon S3, and how to mitigate them following a risk-based approach",
+            "homepage": null,
             "id": 397028827,
             "language": "Open Policy Agent",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-03T22:33:16Z",
+            "open_issues": 2,
             "owner": "trustoncloud",
             "repo": "threatmodel-for-aws-s3",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -515,12 +911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulnerable app with examples showing how to not use secrets",
+            "homepage": "https://owasp.org/www-project-wrongsecrets/",
             "id": 1214062756,
             "language": null,
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-18T04:13:48Z",
+            "open_issues": 0,
             "owner": "commjoen",
             "repo": "wrongsecrets",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         }
@@ -537,12 +938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+            "homepage": "https://www.google.com/about/appsecurity/",
             "id": 272394704,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:18:40Z",
+            "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4621
+            "stars": 4621,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -553,12 +959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+            "homepage": "https://www.google.com/about/appsecurity/",
             "id": 272394704,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:18:40Z",
+            "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4621
+            "stars": 4621,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
@@ -569,12 +980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+            "homepage": "https://www.google.com/about/appsecurity/",
             "id": 272394704,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:18:40Z",
+            "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4621
+            "stars": 4621,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
         }
@@ -583,15 +999,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:59:25.502Z",
+    "last_updated": "2026-08-29T04:27:54.625Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
+      "homepage": null,
       "id": 186966440,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2026-04-03T22:46:15Z",
+      "open_issues": 4,
       "owner": "jassics",
       "repo": "awesome-aws-security",
-      "stars": 1585
+      "stars": 1585,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "aws",
+        "aws-auditing",
+        "aws-security",
+        "aws-security-automation",
+        "aws-security-resources",
+        "cloud-security",
+        "security",
+        "security-tools"
+      ]
     },
     "original_repository_sha": "b613b720f0c2d68636e9f3bfc0e4b295a8848241",
     "enhanced_repository": "enhansome/enhansome-aws-security",

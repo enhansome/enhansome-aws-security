@@ -2,7 +2,7 @@
 
 A standard curated list of links, references, books, videos, and tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,861 | 🐛 105 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 ![Awesome AWS Security](awesome-aws-security.png)
 
@@ -150,9 +150,9 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Tools of Trade
 
-1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 28,997 | 🐛 467 | 🌐 Go | 📅 2026-08-26 - Audit git repos for secrets
-2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 27,621 | 🐛 525 | 🌐 Go | 📅 2026-08-28 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,712 | 🐛 336 | 🌐 Python | 📅 2026-08-28 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 29,001 | 🐛 467 | 🌐 Go | 📅 2026-08-26 - Audit git repos for secrets
+2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 27,622 | 🐛 525 | 🌐 Go | 📅 2026-08-28 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,713 | 🐛 337 | 🌐 Python | 📅 2026-08-28 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 4. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,502 | 🐛 10 | 🌐 Shell | 📅 2026-07-07 - Collection of all security category tools and products
 5. [AWS Vault](https://github.com/99designs/aws-vault) ⭐ 8,986 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
 6. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,803 | 🐛 296 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security Auditing Tool
