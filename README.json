@@ -16,7 +16,8 @@
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         }
       ],
       "title": "Online Tutorials/Blogs/Presentations"
@@ -37,7 +38,8 @@
             "owner": "appsecco",
             "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
             "stars": 952
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         }
       ],
       "title": "Online Courses (Paid/Free)"
@@ -57,8 +59,9 @@
             "last_commit": "2026-08-26T04:17:05Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 28983
-          }
+            "stars": 28997
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -69,11 +72,12 @@
             "archived": false,
             "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-27T19:30:21Z",
+            "last_commit": "2026-08-28T09:56:00Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27611
-          }
+            "stars": 27621
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-27T19:18:06Z",
+            "last_commit": "2026-08-28T13:17:40Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14697
-          }
+            "stars": 14712
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
             "stars": 9502
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "99designs",
             "repo": "aws-vault",
             "stars": 8986
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -132,8 +139,9 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7802
-          }
+            "stars": 7803
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -147,8 +155,9 @@
             "last_commit": "2024-07-15T08:42:49Z",
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6289
-          }
+            "stars": 6290
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
             "stars": 5313
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "Netflix",
             "repo": "consoleme",
             "stars": 3196
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -192,8 +203,9 @@
             "last_commit": "2026-08-20T18:39:52Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2564
-          }
+            "stars": 2565
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "dagrz",
             "repo": "aws_pwn",
             "stars": 1223
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "DenizParlak",
             "repo": "Zeus",
             "stars": 719
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "awslabs",
             "repo": "aws-security-automation",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "amazon-archives",
             "repo": "aws-security-benchmark",
             "stars": 618
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "globaldatanet",
             "repo": "aws-firewall-factory",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "welldone-cloud",
             "repo": "aws-lint-iam-policies",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "olizimmermann",
             "repo": "s3dns",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "gebalamariusz",
             "repo": "cloud-audit",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "61418",
             "repo": "boto3-refresh-session",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "TocConsulting",
             "repo": "iam-activity-tracker",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "Su1ph3r",
             "repo": "Nubicustos",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "carlosinfantes",
             "repo": "cloudsecure",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "TocConsulting",
             "repo": "s3-security-scanner",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "group",
@@ -408,7 +433,8 @@
                 "owner": "awslabs",
                 "repo": "aws-config-rules",
                 "stars": 1735
-              }
+              },
+              "first_seen": "2026-08-29T00:59:25.502Z"
             }
           ]
         }
@@ -430,8 +456,9 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3710
-          }
+            "stars": 3712
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -446,7 +473,8 @@
             "owner": "appsecco",
             "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
             "stars": 952
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -461,7 +489,8 @@
             "owner": "OWASP",
             "repo": "Serverless-Goat",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -476,7 +505,8 @@
             "owner": "trustoncloud",
             "repo": "threatmodel-for-aws-s3",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -491,7 +521,8 @@
             "owner": "commjoen",
             "repo": "wrongsecrets",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         }
       ],
       "title": "Security Practices and CTFs"
@@ -508,11 +539,12 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-27T10:01:40Z",
+            "last_commit": "2026-08-28T08:18:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4617
-          }
+            "stars": 4621
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -523,11 +555,12 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-27T10:01:40Z",
+            "last_commit": "2026-08-28T08:18:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4617
-          }
+            "stars": 4621
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
           "node_type": "item",
@@ -538,18 +571,19 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-27T10:01:40Z",
+            "last_commit": "2026-08-28T08:18:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4617
-          }
+            "stars": 4621
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
         }
       ],
       "title": "AWS Security Bulletin Important Issues"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:31:04.178Z",
+    "last_updated": "2026-08-29T00:59:25.502Z",
     "original_repository_info": {
       "archived": false,
       "id": 186966440,
