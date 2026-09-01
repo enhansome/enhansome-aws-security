@@ -78,10 +78,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-26T04:17:05Z",
-            "open_issues": 470,
+            "open_issues": 472,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29040,
+            "stars": 29054,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -119,11 +119,11 @@
             "id": 77726177,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T21:05:17Z",
-            "open_issues": 531,
+            "last_commit": "2026-09-01T18:02:01Z",
+            "open_issues": 534,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27645,
+            "stars": 27651,
             "topics": [
               "credentials",
               "devsecops",
@@ -153,11 +153,11 @@
             "id": 66474729,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T20:53:39Z",
-            "open_issues": 349,
+            "last_commit": "2026-09-01T19:49:24Z",
+            "open_issues": 354,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14725,
+            "stars": 14735,
             "topics": [
               "aws",
               "azure",
@@ -262,7 +262,7 @@
             "open_issues": 296,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7808,
+            "stars": 7809,
             "topics": [
               "auditing",
               "aws",
@@ -369,7 +369,7 @@
             "open_issues": 10,
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2566,
+            "stars": 2564,
             "topics": [
               "aws",
               "cloud",
@@ -611,7 +611,7 @@
             "id": 916196102,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-27T17:50:24Z",
+            "last_commit": "2026-09-01T19:12:32Z",
             "open_issues": 1,
             "owner": "61418",
             "repo": "boto3-refresh-session",
@@ -943,11 +943,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T08:18:40Z",
+            "last_commit": "2026-09-01T12:10:12Z",
             "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4625,
+            "stars": 4626,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -964,11 +964,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T08:18:40Z",
+            "last_commit": "2026-09-01T12:10:12Z",
             "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4625,
+            "stars": 4626,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -985,11 +985,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T08:18:40Z",
+            "last_commit": "2026-09-01T12:10:12Z",
             "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4625,
+            "stars": 4626,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -999,7 +999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:55:22.855Z",
+    "last_updated": "2026-09-01T19:57:39.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
@@ -1011,7 +1011,7 @@
       "open_issues": 5,
       "owner": "jassics",
       "repo": "awesome-aws-security",
-      "stars": 1587,
+      "stars": 1588,
       "topics": [
         "awesome",
         "awesome-list",
