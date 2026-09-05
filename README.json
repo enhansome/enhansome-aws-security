@@ -81,7 +81,7 @@
             "open_issues": 474,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29105,
+            "stars": 29114,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -119,11 +119,11 @@
             "id": 77726177,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T18:53:20Z",
-            "open_issues": 536,
+            "last_commit": "2026-09-05T08:10:18Z",
+            "open_issues": 539,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27686,
+            "stars": 27693,
             "topics": [
               "credentials",
               "devsecops",
@@ -154,10 +154,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T14:15:01Z",
-            "open_issues": 375,
+            "open_issues": 376,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14753,
+            "stars": 14757,
             "topics": [
               "aws",
               "azure",
@@ -316,7 +316,7 @@
             "open_issues": 37,
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5318,
+            "stars": 5319,
             "topics": [
               "aws",
               "aws-security",
@@ -573,7 +573,7 @@
             "open_issues": 10,
             "owner": "gebalamariusz",
             "repo": "cloud-audit",
-            "stars": 70,
+            "stars": 72,
             "topics": [
               "audit",
               "aws",
@@ -828,7 +828,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3717,
+            "stars": 3718,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -878,7 +878,7 @@
             "open_issues": 11,
             "owner": "OWASP",
             "repo": "Serverless-Goat",
-            "stars": 330,
+            "stars": 331,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -999,7 +999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:39:58.531Z",
+    "last_updated": "2026-09-05T19:05:21.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
