@@ -2,7 +2,7 @@
 
 A standard curated list of links, references, books, videos, and tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,028 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,337 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ![Awesome AWS Security](awesome-aws-security.png)
 
@@ -150,26 +150,26 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Tools of Trade
 
-1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 29,302 | 🐛 474 | 🌐 Go | 📅 2026-09-09 - Audit git repos for secrets
-2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 27,891 | 🐛 552 | 🌐 Go | 📅 2026-09-14 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,814 | 🐛 371 | 🌐 Python | 📅 2026-09-14 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
-4. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,504 | 🐛 11 | 🌐 Shell | 📅 2026-07-07 - Collection of all security category tools and products
-5. [AWS Vault](https://github.com/99designs/aws-vault) ⭐ 8,988 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
-6. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,818 | 🐛 299 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security Auditing Tool
+1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 29,327 | 🐛 480 | 🌐 Go | 📅 2026-09-09 - Audit git repos for secrets
+2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 27,915 | 🐛 553 | 🌐 Go | 📅 2026-09-15 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,819 | 🐛 378 | 🌐 Python | 📅 2026-09-15 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+4. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,506 | 🐛 12 | 🌐 Shell | 📅 2026-07-07 - Collection of all security category tools and products
+5. [AWS Vault](https://github.com/99designs/aws-vault) ⭐ 8,989 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
+6. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,818 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security Auditing Tool
 7. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,289 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-15 - Analyze your AWS environments (Python)
 8. [Pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,329 | 🐛 38 | 🌐 Python | 📅 2026-05-19 - AWS Penetration Testing Toolkits
 9. [ConsoleMe](https://github.com/Netflix/consoleme) ⚠️ Archived - A Central Control Plane for AWS Permissions and Access
-10. [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,578 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration tests
+10. [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,577 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration tests
 11. [AWS PWN](https://github.com/dagrz/aws_pwn) ⭐ 1,225 | 🐛 3 | 🌐 Python | 📅 2023-08-30 - A collection of AWS penetration testing junk
 12. [Zeus](https://github.com/DenizParlak/Zeus) ⭐ 718 | 🐛 4 | 🌐 Shell | 📅 2020-02-04 - AWS Auditing and Hardening tool
 13. [AWS Security Automation](https://github.com/awslabs/aws-security-automation) ⚠️ Archived - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
 14. [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark) ⚠️ Archived - Open source demos, concept and guidance related to the AWS CIS Foundation framework.
 15. [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) ⭐ 257 | 🐛 16 | 🌐 TypeScript | 📅 2025-11-17 - Deploy, update, and stage your WAFs while managing them centrally via FMS.
-16. [Cynative](https://github.com/cynative/cynative) ⭐ 201 | 🐛 20 | 🌐 Go | 📅 2026-09-12 - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
+16. [Cynative](https://github.com/cynative/cynative) ⭐ 201 | 🐛 20 | 🌐 Go | 📅 2026-09-15 - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
 17. [aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Tool to find problems in identity-based and resource-based IAM policies
 18. [s3dns](https://github.com/olizimmermann/s3dns) ⭐ 128 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures
-19. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 72 | 🐛 6 | 🌐 Python | 📅 2026-09-08 - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
-20. [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-09-01 - A simple Python package for refreshing AWS temporary credentials in boto3 automatically. Supports MFA, IoT, and custom auth flows.
+19. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 72 | 🐛 8 | 🌐 Python | 📅 2026-09-15 - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
+20. [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) ⭐ 52 | 🐛 4 | 🌐 Python | 📅 2026-09-15 - A simple Python package for refreshing AWS temporary credentials in boto3 automatically. Supports MFA, IoT, and custom auth flows.
 21. [IAM Activity Tracker](https://github.com/TocConsulting/iam-activity-tracker) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-06-29 - Serverless AWS solution for tracking IAM, STS, and Console sign-in activities across all regions using EventBridge and CloudTrail
 22. [Nubicustos](https://github.com/Su1ph3r/Nubicustos) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-06-17 - Orchestrates 20+ security tools (Prowler, ScoutSuite, Checkov, CloudFox, Pacu, etc.) with unified findings, attack paths, and compliance
 23. [CloudSecure](https://github.com/carlosinfantes/cloudsecure) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions
@@ -195,7 +195,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Security Practices and CTFs
 
-1. [CloudGoat By Rhino Security Labs](https://github.com/RhinoSecurityLabs/cloudgoat) ⭐ 3,729 | 🐛 24 | 🌐 Python | 📅 2026-04-28 - Vulnerable by Design AWS infrastructure setup tool
+1. [CloudGoat By Rhino Security Labs](https://github.com/RhinoSecurityLabs/cloudgoat) ⭐ 3,729 | 🐛 23 | 🌐 Python | 📅 2026-04-28 - Vulnerable by Design AWS infrastructure setup tool
 2. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) ⭐ 952 | 🐛 1 | 🌐 CSS | 📅 2022-11-26 - The training covers a multitude of scenarios taken from our vulnerability assessment, penetration testing and OSINT engagements which take the student through the journey of discovery, identification and exploitation of security weaknesses, misconfigurations and poor programming practices that can lead to complete compromise of the cloud infrastructure.
 3. [OWASP ServerlessGoat](https://github.com/OWASP/Serverless-Goat) ⭐ 331 | 🐛 11 | 🌐 Python | 📅 2024-07-30 - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application maintained by OWASP for educational purposes.
 4. [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3) ⭐ 167 | 🐛 2 | 🌐 Open Policy Agent | 📅 2026-08-03 - Library of all the attack scenarios on Amazon S3 and how to mitigate them, following a risk-based approach
@@ -217,9 +217,9 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## AWS Security Bulletin Important Issues
 
-1. [Unencrypted md5 plaintext hash in metadata in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-76wf-9vgp-pj7w) ⭐ 4,638 | 🐛 93 | 🌐 C | 📅 2026-09-14
-2. [CBC padding oracle issue in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-f5pg-7wfw-84q9) ⭐ 4,638 | 🐛 93 | 🌐 C | 📅 2026-09-14 : [CVE-2020-8911](https://nvd.nist.gov/vuln/detail/CVE-2020-8911)
-3. [In-band key negotiation issue in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-7f33-f4f5-xwgw) ⭐ 4,638 | 🐛 93 | 🌐 C | 📅 2026-09-14 : [CVE-2020-8912](https://nvd.nist.gov/vuln/detail/CVE-2020-8912)
+1. [Unencrypted md5 plaintext hash in metadata in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-76wf-9vgp-pj7w) ⭐ 4,638 | 🐛 94 | 🌐 C | 📅 2026-09-15
+2. [CBC padding oracle issue in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-f5pg-7wfw-84q9) ⭐ 4,638 | 🐛 94 | 🌐 C | 📅 2026-09-15 : [CVE-2020-8911](https://nvd.nist.gov/vuln/detail/CVE-2020-8911)
+3. [In-band key negotiation issue in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-7f33-f4f5-xwgw) ⭐ 4,638 | 🐛 94 | 🌐 C | 📅 2026-09-15 : [CVE-2020-8912](https://nvd.nist.gov/vuln/detail/CVE-2020-8912)
 4. [Container Networking Security Issue (\[CVE-2020-8558\])](https://nvd.nist.gov/vuln/detail/CVE-2020-8558) (This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
 5. [Minimum Version of TLS 1.2 Required for FIPS Endpoints by March 31, 2021](https://aws.amazon.com/security/security-bulletins/AWS-2020-001/)
 6. [CVE-2018-15869](https://nvd.nist.gov/vuln/detail/CVE-2018-15869): An Amazon Web Services (AWS) developer who does not specify the --owners flag when describing images via AWS CLI, and therefore not properly validating source software per AWS recommended security best practices, may unintentionally load an undesired and potentially malicious Amazon Machine Image (AMI) from the uncurated public community AMI catalog.
@@ -266,8 +266,8 @@ Thanks to the following folks who made contributions to this project.
 
 **Get your name listed here**
 
-[List of Contributors](https://github.com/jassics/awesome-aws-security/graphs/contributors) ⭐ 1,595 | 🐛 4 | 📅 2026-09-14
+[List of Contributors](https://github.com/jassics/awesome-aws-security/graphs/contributors) ⭐ 1,596 | 🐛 5 | 📅 2026-09-14
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
