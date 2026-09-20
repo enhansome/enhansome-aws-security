@@ -78,10 +78,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-09T04:18:49Z",
-            "open_issues": 481,
+            "open_issues": 484,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29394,
+            "stars": 29402,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -123,7 +123,7 @@
             "open_issues": 559,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27993,
+            "stars": 28003,
             "topics": [
               "credentials",
               "devsecops",
@@ -154,10 +154,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T01:46:58Z",
-            "open_issues": 377,
+            "open_issues": 373,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14838,
+            "stars": 14841,
             "topics": [
               "aws",
               "azure",
@@ -262,7 +262,7 @@
             "open_issues": 298,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7821,
+            "stars": 7822,
             "topics": [
               "auditing",
               "aws",
@@ -316,7 +316,7 @@
             "open_issues": 38,
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5335,
+            "stars": 5336,
             "topics": [
               "aws",
               "aws-security",
@@ -522,7 +522,7 @@
             "open_issues": 20,
             "owner": "cynative",
             "repo": "cynative",
-            "stars": 203,
+            "stars": 202,
             "topics": [
               "agentic-security",
               "ai-agent",
@@ -763,8 +763,8 @@
             "id": 1171024389,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-10T15:03:59Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-20T04:51:53Z",
+            "open_issues": 1,
             "owner": "carlosinfantes",
             "repo": "cloudsecure",
             "stars": 6,
@@ -986,10 +986,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T15:30:06Z",
-            "open_issues": 91,
+            "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4642,
+            "stars": 4643,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1007,10 +1007,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T15:30:06Z",
-            "open_issues": 91,
+            "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4642,
+            "stars": 4643,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1028,10 +1028,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T15:30:06Z",
-            "open_issues": 91,
+            "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4642,
+            "stars": 4643,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:21:07.825Z",
+    "last_updated": "2026-09-20T19:30:37.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
