@@ -81,7 +81,7 @@
             "open_issues": 484,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29484,
+            "stars": 29497,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -119,11 +119,11 @@
             "id": 77726177,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T19:15:47Z",
-            "open_issues": 552,
+            "last_commit": "2026-09-26T15:19:54Z",
+            "open_issues": 556,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28053,
+            "stars": 28069,
             "topics": [
               "credentials",
               "devsecops",
@@ -157,7 +157,7 @@
             "open_issues": 382,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14864,
+            "stars": 14869,
             "topics": [
               "aws",
               "azure",
@@ -199,7 +199,7 @@
             "open_issues": 12,
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9510,
+            "stars": 9511,
             "topics": [
               "auditing",
               "aws-infrastructure",
@@ -262,7 +262,7 @@
             "open_issues": 298,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7829,
+            "stars": 7831,
             "topics": [
               "auditing",
               "aws",
@@ -290,7 +290,7 @@
             "open_issues": 211,
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6289,
+            "stars": 6288,
             "topics": [
               "aws",
               "cytoscape",
@@ -522,7 +522,7 @@
             "open_issues": 20,
             "owner": "cynative",
             "repo": "cynative",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "agentic-security",
               "ai-agent",
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:31:50.148Z",
+    "last_updated": "2026-09-26T19:54:42.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
