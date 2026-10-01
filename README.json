@@ -46,7 +46,7 @@
             "open_issues": 1,
             "owner": "appsecco",
             "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
-            "stars": 951,
+            "stars": 950,
             "topics": [
               "application-security",
               "aws-security",
@@ -78,10 +78,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-30T04:14:02Z",
-            "open_issues": 488,
+            "open_issues": 489,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29577,
+            "stars": 29601,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -119,11 +119,11 @@
             "id": 77726177,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T17:53:14Z",
-            "open_issues": 559,
+            "last_commit": "2026-10-01T20:50:26Z",
+            "open_issues": 557,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28210,
+            "stars": 28231,
             "topics": [
               "credentials",
               "devsecops",
@@ -153,11 +153,11 @@
             "id": 66474729,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T14:48:56Z",
-            "open_issues": 388,
+            "last_commit": "2026-10-01T09:58:31Z",
+            "open_issues": 387,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14902,
+            "stars": 14909,
             "topics": [
               "aws",
               "azure",
@@ -199,7 +199,7 @@
             "open_issues": 12,
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9513,
+            "stars": 9514,
             "topics": [
               "auditing",
               "aws-infrastructure",
@@ -232,7 +232,7 @@
             "open_issues": 2,
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8998,
+            "stars": 8997,
             "topics": [
               "aws",
               "aws-vault",
@@ -262,7 +262,7 @@
             "open_issues": 297,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7831,
+            "stars": 7832,
             "topics": [
               "auditing",
               "aws",
@@ -290,7 +290,7 @@
             "open_issues": 211,
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6289,
+            "stars": 6288,
             "topics": [
               "aws",
               "cytoscape",
@@ -513,37 +513,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Open-source security agents for cloud, code and runtime. 45 built-in agents audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab for privilege escalation, public exposure, supply chain and more, or build your own in one markdown file. Live, read-only access to your infrastructure.",
+            "description": "Build your own cybersecurity AI agents. The open source security engineering toolkit for the AI era.",
             "homepage": "https://cynative.com",
             "id": 1279470595,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T14:39:56Z",
+            "last_commit": "2026-10-01T21:29:50Z",
             "open_issues": 21,
             "owner": "cynative",
             "repo": "cynative",
-            "stars": 215,
+            "stars": 217,
             "topics": [
-              "agent-harness",
               "agentic-security",
-              "ai-agents",
-              "application-security",
               "aws-security",
               "azure-security",
-              "cli-tool",
               "cloud-security",
               "container-security",
-              "cybersecurity",
-              "developer-tools",
               "devsecops",
               "gcp-security",
-              "product-security",
-              "runtime-security",
-              "security-automation",
-              "security-tools",
-              "sovereign-ai",
-              "threat-hunting",
-              "vulnerability-management"
+              "security-automation"
             ]
           },
           "first_seen": "2026-09-14T20:58:11.795Z"
@@ -841,7 +829,7 @@
                 "open_issues": 115,
                 "owner": "awslabs",
                 "repo": "aws-config-rules",
-                "stars": 1738,
+                "stars": 1739,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:59:25.502Z"
@@ -891,7 +879,7 @@
             "open_issues": 1,
             "owner": "appsecco",
             "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
-            "stars": 951,
+            "stars": 950,
             "topics": [
               "application-security",
               "aws-security",
@@ -985,11 +973,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T12:26:45Z",
+            "last_commit": "2026-10-01T09:23:26Z",
             "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4672,
+            "stars": 4676,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1006,11 +994,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T12:26:45Z",
+            "last_commit": "2026-10-01T09:23:26Z",
             "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4672,
+            "stars": 4676,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1027,11 +1015,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T12:26:45Z",
+            "last_commit": "2026-10-01T09:23:26Z",
             "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4672,
+            "stars": 4676,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1041,7 +1029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:26:32.553Z",
+    "last_updated": "2026-10-01T21:51:04.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
