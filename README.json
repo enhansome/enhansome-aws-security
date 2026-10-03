@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "*A very good repo for learning IAM based vulnerabilities",
-          "description": null,
+          "description": "BishopFox/iam-vulnerable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
             "open_issues": 489,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29615,
+            "stars": 29623,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -123,7 +123,7 @@
             "open_issues": 559,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28243,
+            "stars": 28248,
             "topics": [
               "credentials",
               "devsecops",
@@ -154,10 +154,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:22:52Z",
-            "open_issues": 390,
+            "open_issues": 391,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14914,
+            "stars": 14917,
             "topics": [
               "aws",
               "azure",
@@ -369,7 +369,7 @@
             "open_issues": 10,
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2590,
+            "stars": 2591,
             "topics": [
               "aws",
               "cloud",
@@ -817,7 +817,7 @@
             {
               "node_type": "item",
               "title": "1.14 AWS Conformance Packs: A conformance pack is a collection of AWS Config rules and remediation actions that can be easily deployed as a single entity in an account and a Region or across an organization in AWS Organizations. conformance packs on github",
-              "description": null,
+              "description": "awslabs/aws-config-rules",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -965,7 +965,7 @@
         {
           "node_type": "item",
           "title": "Unencrypted md5 plaintext hash in metadata in AWS S3 Crypto SDK for golang",
-          "description": null,
+          "description": "google/security-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -978,7 +978,7 @@
             "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4677,
+            "stars": 4676,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -999,7 +999,7 @@
             "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4677,
+            "stars": 4676,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4677,
+            "stars": 4676,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:20:47.082Z",
+    "last_updated": "2026-10-03T04:35:40.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
