@@ -81,7 +81,7 @@
             "open_issues": 494,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 29817,
+            "stars": 29837,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -123,7 +123,7 @@
             "open_issues": 561,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28396,
+            "stars": 28415,
             "topics": [
               "credentials",
               "devsecops",
@@ -157,7 +157,7 @@
             "open_issues": 457,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14992,
+            "stars": 14998,
             "topics": [
               "aws",
               "azure",
@@ -199,7 +199,7 @@
             "open_issues": 12,
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9513,
+            "stars": 9514,
             "topics": [
               "auditing",
               "aws-infrastructure",
@@ -232,7 +232,7 @@
             "open_issues": 2,
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8997,
+            "stars": 9000,
             "topics": [
               "aws",
               "aws-vault",
@@ -262,7 +262,7 @@
             "open_issues": 297,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7839,
+            "stars": 7841,
             "topics": [
               "auditing",
               "aws",
@@ -316,7 +316,7 @@
             "open_issues": 38,
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5349,
+            "stars": 5353,
             "topics": [
               "aws",
               "aws-security",
@@ -859,7 +859,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3752,
+            "stars": 3753,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:44:19.311Z",
+    "last_updated": "2026-10-10T20:34:50.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
