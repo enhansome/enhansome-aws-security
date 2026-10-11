@@ -2,7 +2,7 @@
 
 A standard curated list of links, references, books, videos, and tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,187 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,644 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ![Awesome AWS Security](awesome-aws-security.png)
 
@@ -22,8 +22,8 @@ Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
 > \[!NOTE]
 > You can follow the below github repo as well to excel in Cloud Security
 >
-> 1. [Awesome Cloud Security Learning Resources](https://github.com/jassics/awesome-cybersecurity-learning-resources/blob/main/awesome-cloud-security-learning-resources.md) ⭐ 146 | 🐛 3 | 📅 2026-09-14
-> 2. [AWS Security Study Plan](https://github.com/jassics/security-study-plan/blob/main/aws-security-study-plan.md) ⭐ 5,099 | 🐛 2 | 📅 2026-10-10
+> 1. [Awesome Cloud Security Learning Resources](https://github.com/jassics/awesome-cybersecurity-learning-resources/blob/main/awesome-cloud-security-learning-resources.md) ⭐ 147 | 🐛 1 | 📅 2026-10-11
+> 2. [AWS Security Study Plan](https://github.com/jassics/security-study-plan/blob/main/aws-security-study-plan.md) ⭐ 5,100 | 🐛 2 | 📅 2026-10-10
 > 3. [AWS Security Interview Quesitons](https://github.com/jassics/security-interview-questions/blob/main/aws-security-interview-questions.md) ⭐ 496 | 🐛 0 | 📅 2026-07-04
 > 4. [Cloud Security Roadmap](https://github.com/jassics/cybersecurity-roadmap/blob/master/cloud-security.md) ⭐ 495 | 🐛 0 | 📅 2026-09-22
 > 5. [Cloud Security Slides Primer](https://github.com/jassics/cybersecurity-slides/tree/main/cloud-security) ⭐ 46 | 🐛 0 | 📅 2025-03-24
@@ -150,22 +150,22 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Tools of Trade
 
-1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 29,837 | 🐛 494 | 🌐 Go | 📅 2026-09-30 - Audit git repos for secrets
-2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 28,415 | 🐛 561 | 🌐 Go | 📅 2026-10-09 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,998 | 🐛 457 | 🌐 Python | 📅 2026-10-09 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
-4. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,514 | 🐛 12 | 🌐 Shell | 📅 2026-10-02 - Collection of all security category tools and products
+1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 29,854 | 🐛 496 | 🌐 Go | 📅 2026-09-30 - Audit git repos for secrets
+2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 28,428 | 🐛 562 | 🌐 Go | 📅 2026-10-09 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 15,005 | 🐛 459 | 🌐 Python | 📅 2026-10-09 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+4. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,515 | 🐛 12 | 🌐 Shell | 📅 2026-10-02 - Collection of all security category tools and products
 5. [AWS Vault](https://github.com/99designs/aws-vault) ⭐ 9,000 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
 6. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,841 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security Auditing Tool
 7. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,288 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-15 - Analyze your AWS environments (Python)
-8. [Pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,353 | 🐛 38 | 🌐 Python | 📅 2026-05-19 - AWS Penetration Testing Toolkits
+8. [Pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,354 | 🐛 38 | 🌐 Python | 📅 2026-05-19 - AWS Penetration Testing Toolkits
 9. [ConsoleMe](https://github.com/Netflix/consoleme) ⚠️ Archived - A Central Control Plane for AWS Permissions and Access
-10. [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,601 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration tests
+10. [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,604 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration tests
 11. [AWS PWN](https://github.com/dagrz/aws_pwn) ⭐ 1,224 | 🐛 3 | 🌐 Python | 📅 2023-08-30 - A collection of AWS penetration testing junk
 12. [Zeus](https://github.com/DenizParlak/Zeus) ⭐ 718 | 🐛 3 | 🌐 Shell | 📅 2020-02-04 - AWS Auditing and Hardening tool
 13. [AWS Security Automation](https://github.com/awslabs/aws-security-automation) ⚠️ Archived - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
 14. [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark) ⚠️ Archived - Open source demos, concept and guidance related to the AWS CIS Foundation framework.
 15. [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) ⭐ 257 | 🐛 16 | 🌐 TypeScript | 📅 2025-11-17 - Deploy, update, and stage your WAFs while managing them centrally via FMS.
-16. [Cynative](https://github.com/cynative/cynative) ⭐ 221 | 🐛 30 | 🌐 Go | 📅 2026-10-09 - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
+16. [Cynative](https://github.com/cynative/cynative) ⭐ 222 | 🐛 29 | 🌐 Go | 📅 2026-10-11 - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
 17. [aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Tool to find problems in identity-based and resource-based IAM policies
 18. [s3dns](https://github.com/olizimmermann/s3dns) ⭐ 129 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures
 19. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 72 | 🐛 9 | 🌐 Python | 📅 2026-09-22 - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
@@ -175,7 +175,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 23. [CloudSecure](https://github.com/carlosinfantes/cloudsecure) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-09-20 - Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions
 24. [S3 Security Scanner](https://github.com/TocConsulting/s3-security-scanner) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-29 - Comprehensive AWS S3 security scanner that analyzes bucket configurations, policies, and access controls
 25. [AWS Security Products - Official](https://aws.amazon.com/products/security/) - Few Important tools that you should consider are:
-    * 1.14 **AWS Conformance Packs:** A conformance pack is a collection of AWS Config rules and remediation actions that can be easily deployed as a single entity in an account and a Region or across an organization in AWS Organizations. [conformance packs on github](https://github.com/awslabs/aws-config-rules/tree/master/aws-config-conformance-packs) ⭐ 1,739 | 🐛 116 | 🌐 Python | 📅 2026-10-06
+    * 1.14 **AWS Conformance Packs:** A conformance pack is a collection of AWS Config rules and remediation actions that can be easily deployed as a single entity in an account and a Region or across an organization in AWS Organizations. [conformance packs on github](https://github.com/awslabs/aws-config-rules/tree/master/aws-config-conformance-packs) ⭐ 1,740 | 🐛 116 | 🌐 Python | 📅 2026-10-06
     * 1.1 **AWS IAM:** AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely
     * 1.2 **CloudWatch:** CloudWatch is the AWS monitoring tool
     * 1.3 **CloudTrail:** AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account
@@ -270,4 +270,4 @@ Thanks to the following folks who made contributions to this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
