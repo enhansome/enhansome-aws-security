@@ -2,7 +2,7 @@
 
 A standard curated list of links, references, books, videos, and tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,644 | 🐛 105 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,163 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ![Awesome AWS Security](awesome-aws-security.png)
 
@@ -22,10 +22,10 @@ Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
 > \[!NOTE]
 > You can follow the below github repo as well to excel in Cloud Security
 >
-> 1. [Awesome Cloud Security Learning Resources](https://github.com/jassics/awesome-cybersecurity-learning-resources/blob/main/awesome-cloud-security-learning-resources.md) ⭐ 147 | 🐛 1 | 📅 2026-10-11
-> 2. [AWS Security Study Plan](https://github.com/jassics/security-study-plan/blob/main/aws-security-study-plan.md) ⭐ 5,100 | 🐛 2 | 📅 2026-10-10
-> 3. [AWS Security Interview Quesitons](https://github.com/jassics/security-interview-questions/blob/main/aws-security-interview-questions.md) ⭐ 496 | 🐛 0 | 📅 2026-07-04
-> 4. [Cloud Security Roadmap](https://github.com/jassics/cybersecurity-roadmap/blob/master/cloud-security.md) ⭐ 495 | 🐛 0 | 📅 2026-09-22
+> 1. [Awesome Cloud Security Learning Resources](https://github.com/jassics/awesome-cybersecurity-learning-resources/blob/main/awesome-cloud-security-learning-resources.md) ⭐ 148 | 🐛 2 | 📅 2026-10-11
+> 2. [AWS Security Study Plan](https://github.com/jassics/security-study-plan/blob/main/aws-security-study-plan.md) ⭐ 5,104 | 🐛 2 | 📅 2026-10-10
+> 3. [AWS Security Interview Quesitons](https://github.com/jassics/security-interview-questions/blob/main/aws-security-interview-questions.md) ⭐ 498 | 🐛 0 | 📅 2026-07-04
+> 4. [Cloud Security Roadmap](https://github.com/jassics/cybersecurity-roadmap/blob/master/cloud-security.md) ⭐ 496 | 🐛 0 | 📅 2026-09-22
 > 5. [Cloud Security Slides Primer](https://github.com/jassics/cybersecurity-slides/tree/main/cloud-security) ⭐ 46 | 🐛 0 | 📅 2025-03-24
 
 ## AWS Whitepapers
@@ -92,7 +92,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Online Tutorials/Blogs/Presentations
 
-1. \*[A very good repo for learning IAM based vulnerabilities](https://github.com/BishopFox/iam-vulnerable) ⭐ 590 | 🐛 0 | 🌐 HCL | 📅 2026-03-12
+1. \*[A very good repo for learning IAM based vulnerabilities](https://github.com/BishopFox/iam-vulnerable) ⭐ 591 | 🐛 0 | 🌐 HCL | 📅 2026-03-12
 2. [AWS Security official blog](https://aws.amazon.com/blogs/security/)
 3. [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
 4. [Why the CIA trusts AWS](https://mediatemple.net/blog/tips/aws-building-blocks/)
@@ -129,7 +129,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Online Courses (Paid/Free)
 
-1. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) ⭐ 950 | 🐛 1 | 🌐 CSS | 📅 2022-11-26 - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters
+1. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) ⭐ 951 | 🐛 1 | 🌐 CSS | 📅 2022-11-26 - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters
 2. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
 3. [Cloud Computing Security](https://www.coursera.org/learn/cloud-computing-security) - Coursera
 4. [AWS: Getting started with Cloud Security](https://www.edx.org/course/aws-getting-started-with-cloud-security) - EdX
@@ -150,24 +150,24 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Tools of Trade
 
-1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 29,854 | 🐛 496 | 🌐 Go | 📅 2026-09-30 - Audit git repos for secrets
-2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 28,428 | 🐛 562 | 🌐 Go | 📅 2026-10-09 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 15,005 | 🐛 459 | 🌐 Python | 📅 2026-10-09 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+1. [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 29,878 | 🐛 496 | 🌐 Go | 📅 2026-09-30 - Audit git repos for secrets
+2. [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 28,460 | 🐛 567 | 🌐 Go | 📅 2026-10-12 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+3. [Prowler](https://github.com/toniblyx/prowler) ⭐ 15,016 | 🐛 464 | 🌐 Python | 📅 2026-10-12 - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 4. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,515 | 🐛 12 | 🌐 Shell | 📅 2026-10-02 - Collection of all security category tools and products
-5. [AWS Vault](https://github.com/99designs/aws-vault) ⭐ 9,000 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
-6. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,841 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security Auditing Tool
-7. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,288 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-15 - Analyze your AWS environments (Python)
-8. [Pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,354 | 🐛 38 | 🌐 Python | 📅 2026-05-19 - AWS Penetration Testing Toolkits
+5. [AWS Vault](https://github.com/99designs/aws-vault) ⭐ 8,999 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
+6. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,846 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security Auditing Tool
+7. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,287 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-15 - Analyze your AWS environments (Python)
+8. [Pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,358 | 🐛 38 | 🌐 Python | 📅 2026-05-19 - AWS Penetration Testing Toolkits
 9. [ConsoleMe](https://github.com/Netflix/consoleme) ⚠️ Archived - A Central Control Plane for AWS Permissions and Access
-10. [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,604 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration tests
+10. [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,605 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration tests
 11. [AWS PWN](https://github.com/dagrz/aws_pwn) ⭐ 1,224 | 🐛 3 | 🌐 Python | 📅 2023-08-30 - A collection of AWS penetration testing junk
-12. [Zeus](https://github.com/DenizParlak/Zeus) ⭐ 718 | 🐛 3 | 🌐 Shell | 📅 2020-02-04 - AWS Auditing and Hardening tool
+12. [Zeus](https://github.com/DenizParlak/Zeus) ⭐ 717 | 🐛 3 | 🌐 Shell | 📅 2020-02-04 - AWS Auditing and Hardening tool
 13. [AWS Security Automation](https://github.com/awslabs/aws-security-automation) ⚠️ Archived - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
 14. [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark) ⚠️ Archived - Open source demos, concept and guidance related to the AWS CIS Foundation framework.
 15. [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) ⭐ 257 | 🐛 16 | 🌐 TypeScript | 📅 2025-11-17 - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 16. [Cynative](https://github.com/cynative/cynative) ⭐ 222 | 🐛 29 | 🌐 Go | 📅 2026-10-11 - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
-17. [aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Tool to find problems in identity-based and resource-based IAM policies
-18. [s3dns](https://github.com/olizimmermann/s3dns) ⭐ 129 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures
+17. [aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - Tool to find problems in identity-based and resource-based IAM policies
+18. [s3dns](https://github.com/olizimmermann/s3dns) ⭐ 129 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures
 19. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 72 | 🐛 9 | 🌐 Python | 📅 2026-09-22 - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
 20. [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2026-10-04 - A simple Python package for refreshing AWS temporary credentials in boto3 automatically. Supports MFA, IoT, and custom auth flows.
 21. [IAM Activity Tracker](https://github.com/TocConsulting/iam-activity-tracker) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-06-29 - Serverless AWS solution for tracking IAM, STS, and Console sign-in activities across all regions using EventBridge and CloudTrail
@@ -195,8 +195,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 
 ## Security Practices and CTFs
 
-1. [CloudGoat By Rhino Security Labs](https://github.com/RhinoSecurityLabs/cloudgoat) ⭐ 3,753 | 🐛 20 | 🌐 Python | 📅 2026-10-06 - Vulnerable by Design AWS infrastructure setup tool
-2. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) ⭐ 950 | 🐛 1 | 🌐 CSS | 📅 2022-11-26 - The training covers a multitude of scenarios taken from our vulnerability assessment, penetration testing and OSINT engagements which take the student through the journey of discovery, identification and exploitation of security weaknesses, misconfigurations and poor programming practices that can lead to complete compromise of the cloud infrastructure.
+1. [CloudGoat By Rhino Security Labs](https://github.com/RhinoSecurityLabs/cloudgoat) ⭐ 3,755 | 🐛 21 | 🌐 Python | 📅 2026-10-06 - Vulnerable by Design AWS infrastructure setup tool
+2. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) ⭐ 951 | 🐛 1 | 🌐 CSS | 📅 2022-11-26 - The training covers a multitude of scenarios taken from our vulnerability assessment, penetration testing and OSINT engagements which take the student through the journey of discovery, identification and exploitation of security weaknesses, misconfigurations and poor programming practices that can lead to complete compromise of the cloud infrastructure.
 3. [OWASP ServerlessGoat](https://github.com/OWASP/Serverless-Goat) ⭐ 331 | 🐛 11 | 🌐 Python | 📅 2024-07-30 - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application maintained by OWASP for educational purposes.
 4. [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3) ⭐ 167 | 🐛 2 | 🌐 Open Policy Agent | 📅 2026-08-03 - Library of all the attack scenarios on Amazon S3 and how to mitigate them, following a risk-based approach
 5. [OWASP WrongSecrets](https://github.com/commjoen/wrongsecrets) ⭐ 0 | 🐛 0 | 📅 2026-04-18 - OWASP WrongSecrets is a vulnerable app which shows you how to not store secrets. It covers code, Docker, Kubernetes, and AWS cloud bad practices.
@@ -270,4 +270,4 @@ Thanks to the following folks who made contributions to this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
