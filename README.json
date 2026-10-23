@@ -78,10 +78,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-30T04:14:02Z",
-            "open_issues": 512,
+            "open_issues": 513,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 30237,
+            "stars": 30272,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -119,11 +119,11 @@
             "id": 77726177,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T15:02:39Z",
+            "last_commit": "2026-10-23T17:01:33Z",
             "open_issues": 586,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28650,
+            "stars": 28678,
             "topics": [
               "credentials",
               "devsecops",
@@ -153,11 +153,11 @@
             "id": 66474729,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T16:12:20Z",
-            "open_issues": 494,
+            "last_commit": "2026-10-23T18:03:44Z",
+            "open_issues": 499,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 15087,
+            "stars": 15090,
             "topics": [
               "aws",
               "azure",
@@ -262,7 +262,7 @@
             "open_issues": 297,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7858,
+            "stars": 7856,
             "topics": [
               "auditing",
               "aws",
@@ -290,7 +290,7 @@
             "open_issues": 211,
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6290,
+            "stars": 6289,
             "topics": [
               "aws",
               "cytoscape",
@@ -549,7 +549,7 @@
             "id": 672286357,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-18T13:23:19Z",
+            "last_commit": "2026-10-23T12:51:19Z",
             "open_issues": 0,
             "owner": "welldone-cloud",
             "repo": "aws-lint-iam-policies",
@@ -742,6 +742,40 @@
         },
         {
           "node_type": "item",
+          "title": "S3 Security Scanner",
+          "description": "Comprehensive AWS S3 security scanner that analyzes bucket configurations, policies, and access controls",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AWS S3 security scanner: detect public access, weak bucket policies, missing encryption and compliance gaps across your buckets. Python CLI with multi-format reports.",
+            "homepage": "https://pypi.org/project/s3-security-scanner/",
+            "id": 1017010934,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-29T19:54:36Z",
+            "open_issues": 0,
+            "owner": "TocConsulting",
+            "repo": "s3-security-scanner",
+            "stars": 6,
+            "topics": [
+              "aws",
+              "aws-security",
+              "bucket-security",
+              "cloud-security",
+              "compliance",
+              "cspm",
+              "devsecops",
+              "python",
+              "s3",
+              "scanner",
+              "security",
+              "security-scanner"
+            ]
+          },
+          "first_seen": "2026-08-29T00:59:25.502Z"
+        },
+        {
+          "node_type": "item",
           "title": "CloudSecure",
           "description": "Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions",
           "children": [],
@@ -776,40 +810,6 @@
           "first_seen": "2026-08-29T00:59:25.502Z"
         },
         {
-          "node_type": "item",
-          "title": "S3 Security Scanner",
-          "description": "Comprehensive AWS S3 security scanner that analyzes bucket configurations, policies, and access controls",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AWS S3 security scanner: detect public access, weak bucket policies, missing encryption and compliance gaps across your buckets. Python CLI with multi-format reports.",
-            "homepage": "https://pypi.org/project/s3-security-scanner/",
-            "id": 1017010934,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-06-29T19:54:36Z",
-            "open_issues": 0,
-            "owner": "TocConsulting",
-            "repo": "s3-security-scanner",
-            "stars": 5,
-            "topics": [
-              "aws",
-              "aws-security",
-              "bucket-security",
-              "cloud-security",
-              "compliance",
-              "cspm",
-              "devsecops",
-              "python",
-              "s3",
-              "scanner",
-              "security",
-              "security-scanner"
-            ]
-          },
-          "first_seen": "2026-08-29T00:59:25.502Z"
-        },
-        {
           "node_type": "group",
           "title": "AWS Security Products - Official",
           "description": "Few Important tools that you should consider are:",
@@ -830,7 +830,7 @@
                 "open_issues": 117,
                 "owner": "awslabs",
                 "repo": "aws-config-rules",
-                "stars": 1743,
+                "stars": 1742,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:59:25.502Z"
@@ -974,11 +974,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T08:32:48Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-23T07:25:51Z",
+            "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4708,
+            "stars": 4710,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -995,11 +995,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T08:32:48Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-23T07:25:51Z",
+            "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4708,
+            "stars": 4710,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1016,11 +1016,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T08:32:48Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-23T07:25:51Z",
+            "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4708,
+            "stars": 4710,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:35:19.558Z",
+    "last_updated": "2026-10-23T20:29:51.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
