@@ -77,11 +77,11 @@
             "id": 119190187,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-30T04:14:02Z",
-            "open_issues": 513,
+            "last_commit": "2026-10-23T20:45:02Z",
+            "open_issues": 514,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 30272,
+            "stars": 30296,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -119,11 +119,11 @@
             "id": 77726177,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T17:01:33Z",
-            "open_issues": 586,
+            "last_commit": "2026-10-24T06:04:24Z",
+            "open_issues": 583,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28678,
+            "stars": 28685,
             "topics": [
               "credentials",
               "devsecops",
@@ -154,10 +154,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T18:03:44Z",
-            "open_issues": 499,
+            "open_issues": 505,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 15090,
+            "stars": 15096,
             "topics": [
               "aws",
               "azure",
@@ -199,7 +199,7 @@
             "open_issues": 14,
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9519,
+            "stars": 9520,
             "topics": [
               "auditing",
               "aws-infrastructure",
@@ -316,7 +316,7 @@
             "open_issues": 38,
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5370,
+            "stars": 5372,
             "topics": [
               "aws",
               "aws-security",
@@ -604,7 +604,7 @@
             "open_issues": 11,
             "owner": "gebalamariusz",
             "repo": "cloud-audit",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "audit",
               "aws",
@@ -642,8 +642,8 @@
             "id": 916196102,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-20T14:46:03Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-24T00:41:56Z",
+            "open_issues": 5,
             "owner": "61418",
             "repo": "boto3-refresh-session",
             "stars": 53,
@@ -830,7 +830,7 @@
                 "open_issues": 117,
                 "owner": "awslabs",
                 "repo": "aws-config-rules",
-                "stars": 1742,
+                "stars": 1743,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:59:25.502Z"
@@ -978,7 +978,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4710,
+            "stars": 4714,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -999,7 +999,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4710,
+            "stars": 4714,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4710,
+            "stars": 4714,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:29:51.236Z",
+    "last_updated": "2026-10-24T19:31:53.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
