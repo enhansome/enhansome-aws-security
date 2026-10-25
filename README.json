@@ -78,10 +78,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-23T20:45:02Z",
-            "open_issues": 514,
+            "open_issues": 516,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 30296,
+            "stars": 30321,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -123,7 +123,7 @@
             "open_issues": 583,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28685,
+            "stars": 28697,
             "topics": [
               "credentials",
               "devsecops",
@@ -153,11 +153,11 @@
             "id": 66474729,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T18:03:44Z",
-            "open_issues": 505,
+            "last_commit": "2026-10-25T02:41:03Z",
+            "open_issues": 507,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 15096,
+            "stars": 15093,
             "topics": [
               "aws",
               "azure",
@@ -199,7 +199,7 @@
             "open_issues": 14,
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9520,
+            "stars": 9522,
             "topics": [
               "auditing",
               "aws-infrastructure",
@@ -232,7 +232,7 @@
             "open_issues": 2,
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 9000,
+            "stars": 9001,
             "topics": [
               "aws",
               "aws-vault",
@@ -262,7 +262,7 @@
             "open_issues": 297,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7856,
+            "stars": 7857,
             "topics": [
               "auditing",
               "aws",
@@ -290,7 +290,7 @@
             "open_issues": 211,
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6289,
+            "stars": 6290,
             "topics": [
               "aws",
               "cytoscape",
@@ -369,7 +369,7 @@
             "open_issues": 9,
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2605,
+            "stars": 2604,
             "topics": [
               "aws",
               "cloud",
@@ -859,7 +859,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3762,
+            "stars": 3763,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -927,7 +927,7 @@
             "language": "Open Policy Agent",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-15T22:16:25Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "trustoncloud",
             "repo": "threatmodel-for-aws-s3",
             "stars": 167,
@@ -978,7 +978,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4714,
+            "stars": 4716,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -999,7 +999,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4714,
+            "stars": 4716,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4714,
+            "stars": 4716,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:31:53.533Z",
+    "last_updated": "2026-10-25T19:42:35.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
