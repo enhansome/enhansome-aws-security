@@ -81,7 +81,7 @@
             "open_issues": 516,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 30321,
+            "stars": 30364,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -119,11 +119,11 @@
             "id": 77726177,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T06:04:24Z",
-            "open_issues": 583,
+            "last_commit": "2026-10-26T21:04:50Z",
+            "open_issues": 588,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28697,
+            "stars": 28712,
             "topics": [
               "credentials",
               "devsecops",
@@ -153,11 +153,11 @@
             "id": 66474729,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T02:41:03Z",
-            "open_issues": 507,
+            "last_commit": "2026-10-26T19:55:22Z",
+            "open_issues": 506,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 15093,
+            "stars": 15098,
             "topics": [
               "aws",
               "azure",
@@ -199,7 +199,7 @@
             "open_issues": 14,
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9522,
+            "stars": 9523,
             "topics": [
               "auditing",
               "aws-infrastructure",
@@ -262,7 +262,7 @@
             "open_issues": 297,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7857,
+            "stars": 7859,
             "topics": [
               "auditing",
               "aws",
@@ -316,7 +316,7 @@
             "open_issues": 38,
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5372,
+            "stars": 5373,
             "topics": [
               "aws",
               "aws-security",
@@ -369,7 +369,7 @@
             "open_issues": 9,
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2604,
+            "stars": 2605,
             "topics": [
               "aws",
               "cloud",
@@ -522,7 +522,7 @@
             "open_issues": 28,
             "owner": "cynative",
             "repo": "cynative",
-            "stars": 224,
+            "stars": 226,
             "topics": [
               "agentic-security",
               "aws-security",
@@ -570,7 +570,7 @@
             "id": 965753161,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T12:52:00Z",
+            "last_commit": "2026-10-26T12:43:58Z",
             "open_issues": 0,
             "owner": "olizimmermann",
             "repo": "s3dns",
@@ -642,8 +642,8 @@
             "id": 916196102,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T00:41:56Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-26T08:37:47Z",
+            "open_issues": 1,
             "owner": "61418",
             "repo": "boto3-refresh-session",
             "stars": 53,
@@ -859,7 +859,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3763,
+            "stars": 3764,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -926,8 +926,8 @@
             "id": 397028827,
             "language": "Open Policy Agent",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-15T22:16:25Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-26T16:26:09Z",
+            "open_issues": 2,
             "owner": "trustoncloud",
             "repo": "threatmodel-for-aws-s3",
             "stars": 167,
@@ -978,7 +978,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4716,
+            "stars": 4718,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -999,7 +999,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4716,
+            "stars": 4718,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4716,
+            "stars": 4718,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:42:35.445Z",
+    "last_updated": "2026-10-26T21:39:29.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
@@ -1042,7 +1042,7 @@
       "open_issues": 9,
       "owner": "jassics",
       "repo": "awesome-aws-security",
-      "stars": 1612,
+      "stars": 1613,
       "topics": [
         "awesome",
         "awesome-list",
