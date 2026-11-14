@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 598,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -81,7 +81,7 @@
             "open_issues": 543,
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 30998,
+            "stars": 31027,
             "topics": [
               "ai-powered",
               "ci-cd",
@@ -119,11 +119,11 @@
             "id": 77726177,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T21:48:31Z",
-            "open_issues": 611,
+            "last_commit": "2026-11-14T11:07:54Z",
+            "open_issues": 612,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 29292,
+            "stars": 29336,
             "topics": [
               "credentials",
               "devsecops",
@@ -154,10 +154,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T18:34:24Z",
-            "open_issues": 489,
+            "open_issues": 491,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 15240,
+            "stars": 15242,
             "topics": [
               "aws",
               "azure",
@@ -232,7 +232,7 @@
             "open_issues": 2,
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 9000,
+            "stars": 8999,
             "topics": [
               "aws",
               "aws-vault",
@@ -262,7 +262,7 @@
             "open_issues": 298,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7876,
+            "stars": 7877,
             "topics": [
               "auditing",
               "aws",
@@ -290,7 +290,7 @@
             "open_issues": 211,
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6288,
+            "stars": 6287,
             "topics": [
               "aws",
               "cytoscape",
@@ -316,7 +316,7 @@
             "open_issues": 39,
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5396,
+            "stars": 5397,
             "topics": [
               "aws",
               "aws-security",
@@ -466,7 +466,7 @@
             "open_issues": 48,
             "owner": "amazon-archives",
             "repo": "aws-security-benchmark",
-            "stars": 618,
+            "stars": 619,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -859,7 +859,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3783,
+            "stars": 3786,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -978,7 +978,7 @@
             "open_issues": 56,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4739,
+            "stars": 4740,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -999,7 +999,7 @@
             "open_issues": 56,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4739,
+            "stars": 4740,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 56,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4739,
+            "stars": 4740,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:25.502Z"
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:41:45.767Z",
+    "last_updated": "2026-11-14T21:33:11.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
